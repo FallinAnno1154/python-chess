@@ -1,4 +1,4 @@
- import time, random, requests, json
+ import time, random, requests, json,chess
 import antihackers_engine
 
 antihackers_engine.calls = 0
